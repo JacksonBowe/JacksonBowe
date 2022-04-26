@@ -13,6 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Invoking Lambda Docker Images with AWS CDK &lpar;Python&rpar;](https://towardsdev.com/invoking-lambda-docker-images-with-aws-cdk-python-adc74a2e9d1c?source=rss-c2f9a8700fb5------2)
+- [Provisioning Lambda Docker Images with AWS CDK &lpar;Python&rpar;](https://levelup.gitconnected.com/provisioning-lambda-docker-images-with-aws-cdk-python-a10bffd20613?source=rss-c2f9a8700fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
