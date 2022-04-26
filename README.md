@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
 <h3 align="center">Sometimes I write code. Sometimes it works.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonbowe&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonbowe" /> </p>
+
 - 🔭 I’m currently working on **a serverless web based game; Mafia**
 
 - 🌱 I’m currently learning **AWS, Serverless, Quasar Framework, Vue.js, Web Dev**
@@ -15,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jackson-bowe-a43103223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jackson-bowe-a43103223" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jackson bowe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jackson bowe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17047322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17047322" height="30" width="40" /></a>
 <a href="https://medium.com/@jacksonbowe98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jacksonbowe98" height="30" width="40" /></a>
 </p>
