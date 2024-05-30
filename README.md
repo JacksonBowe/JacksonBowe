@@ -14,8 +14,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Adding a Lobby System to my Serverless Multiplayer Game](https://medium.com/@jacksonbowe98/adding-a-lobby-system-to-my-serverless-multiplayer-game-60bbd2661a0e?source=rss-c2f9a8700fb5------2)
-- [Creating Our Serverless Multiplayer Mafia Game: Adding User Authentication](https://betterprogramming.pub/mafia-1-user-authentication-7ab77883ba9c?source=rss-c2f9a8700fb5------2)
-- [Mafia — A Serverless Multiplayer Game](https://betterprogramming.pub/mafia-a-serverless-multiplayer-game-95427fb25fba?source=rss-c2f9a8700fb5------2)
+- [Creating Our Serverless Multiplayer Mafia Game: Adding User Authentication](https://medium.com/better-programming/mafia-1-user-authentication-7ab77883ba9c?source=rss-c2f9a8700fb5------2)
+- [Mafia — A Serverless Multiplayer Game](https://medium.com/better-programming/mafia-a-serverless-multiplayer-game-95427fb25fba?source=rss-c2f9a8700fb5------2)
 - [AWS for the Solo Developer: Getting Started](https://medium.com/@jacksonbowe98/aws-for-the-solo-developer-getting-started-301a62c9caa6?source=rss-c2f9a8700fb5------2)
 - [AWS CDK — Provisioning a Rest API &lpar;Python&rpar;](https://medium.com/@jacksonbowe98/aws-cdk-provisioning-a-rest-api-python-5294a70ba945?source=rss-c2f9a8700fb5------2)
 <!-- BLOG-POST-LIST:END -->
