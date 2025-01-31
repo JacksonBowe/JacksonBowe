@@ -16,8 +16,8 @@
 - [Thingsboard Version Control with Bitbucket](https://medium.com/@jacksonbowe98/thingsboard-version-control-with-bitbucket-23e1ec8db880?source=rss-c2f9a8700fb5------2)
 - [SSTv2 &amp; Python — Project Setup](https://medium.com/@jacksonbowe98/sstv2-python-project-setup-82beefc00cde?source=rss-c2f9a8700fb5------2)
 - [Adding a Lobby System to my Serverless Multiplayer Game](https://medium.com/@jacksonbowe98/adding-a-lobby-system-to-my-serverless-multiplayer-game-60bbd2661a0e?source=rss-c2f9a8700fb5------2)
-- [Creating Our Serverless Multiplayer Mafia Game: Adding User Authentication](https://betterprogramming.pub/mafia-1-user-authentication-7ab77883ba9c?source=rss-c2f9a8700fb5------2)
-- [Mafia — A Serverless Multiplayer Game](https://betterprogramming.pub/mafia-a-serverless-multiplayer-game-95427fb25fba?source=rss-c2f9a8700fb5------2)
+- [Creating Our Serverless Multiplayer Mafia Game: Adding User Authentication](https://medium.com/better-programming/mafia-1-user-authentication-7ab77883ba9c?source=rss-c2f9a8700fb5------2)
+- [Mafia — A Serverless Multiplayer Game](https://medium.com/better-programming/mafia-a-serverless-multiplayer-game-95427fb25fba?source=rss-c2f9a8700fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
