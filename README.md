@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
-<h3 align="center">Sometimes I write code. Sometimes it works.</h3>
+<h3 align="center">I build things. Mostly with TypeScript, Python, and AWS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonbowe&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonbowe" /> </p>
 
-- 🔭 I’m currently working on **a serverless web based game; Mafia**
+- 🔭 Currently working on **a few small SaaS products and side projects**
 
-- 🌱 I’m currently learning **AWS, Serverless, Quasar Framework, Vue.js, Web Dev**
+- 🌱 Mostly focused on **serverless architecture, Quasar/Vue, and backend systems**
 
-- 📝 I regularly write articles on [https://medium.com/@jacksonbowe98](https://medium.com/@jacksonbowe98)
+- 🛠 Enjoy building **web-apps, games, and weird experiments**
 
-- 💬 Ask me about **my game Mafia!**
+- 💬 Happy to chat about **AWS, Quasar, or shipping solo projects**
+
+Check out my portfolio for some highlights: https://jacksonbowe.com
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
